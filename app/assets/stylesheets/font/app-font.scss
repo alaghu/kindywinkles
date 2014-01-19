@@ -1,0 +1,16 @@
+// Regular
+@include font-face(open-sans-normal, 'OpenSans-Regular', $weight: normal, $style: regular, $asset-pipeline: true);
+
+// Italics
+@include font-face(open-sans-normal, 'OpenSans-Regular-Italic', $weight: normal, $style: italic, $asset-pipeline: true);
+
+// Other Notes from prior changes.
+// If you need more fonts files and fontface, please refer to commit or prior
+// https://bitbucket.org/alaghu/railstodoapp/commits/8f26225a2ea02f44dd4218188d4d41f0feed190b
+
+// Since the font name cannot have the spaces, renaming font to have hyphen.
+// check https://github.com/thoughtbot/bourbon/issues/195?source=cc
+
+// Similairly, font-weight does not differentiate the font. Therefore, renaming
+// the font-face name per type (:light, regular, etc) explicitly and retaining
+// the $weight to normal.

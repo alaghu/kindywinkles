@@ -36,6 +36,10 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+# Needed for css vendor prefix. Refer to  http://bourbon.io/
+gem 'bourbon'
+
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
