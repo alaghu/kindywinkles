@@ -51,3 +51,17 @@ gem 'bourbon'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# Testing related gems
+# followed http://blog.55minutes.com/2013/10/test-javascript-with-capybara-webkit/
+
+group :test do
+  gem 'rspec-rails' , "~> 2.0" , :group => :development
+end
+
+group :test do
+  gem 'capybara'
+  gem 'capybara-webkit'
+  gem 'database_cleaner'
+end
+
