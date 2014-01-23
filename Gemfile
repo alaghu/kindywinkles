@@ -65,3 +65,8 @@ group :test do
   gem 'database_cleaner'
 end
 
+# To run rspec test when files are changed http://www.youtube.com/watch?v=QHRZ5YhuEIY
+group :development , :test do
+  gem 'rb-fsevent', :require => false if RUBY_PLATFORM =~ /darwin/i
+  gem 'guard-rspec'
+end

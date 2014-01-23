@@ -7,5 +7,8 @@ describe 'Home Page' do
     page.should have_content "Art"
   end
 
+  it "should have text 'Music'" do
+    page.should have_content "Music"
+  end
 
 end

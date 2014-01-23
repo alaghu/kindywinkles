@@ -4,6 +4,11 @@
 // Italics
 @include font-face(open-sans-normal, 'OpenSans-Regular-Italic', $weight: normal, $style: italic, $asset-pipeline: true);
 
+
+// Regular
+@include font-face(clouds-and-blue-normal, 'cloudsandblue-Regular', $weight: normal, $style: regular, $asset-pipeline: true);
+
+
 // Other Notes from prior changes.
 // If you need more fonts files and fontface, please refer to commit or prior
 // https://bitbucket.org/alaghu/railstodoapp/commits/8f26225a2ea02f44dd4218188d4d41f0feed190b

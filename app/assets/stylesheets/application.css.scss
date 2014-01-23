@@ -9,11 +9,26 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  */
-
-
 @import "bourbon";
 @import "font/app-font-all";
-
 @import "bootstrap";
-
 @import "animate/animate";
+@import "home";
+
+// Layout
+
+.container-kw {
+  min-width: 768px;
+
+}
+
+.horizontal-bar {
+  position: fixed;
+  bottom: 0;
+
+  width: 100%;
+  min-height: 10%;
+
+  background: #5cb85c;
+
+}
