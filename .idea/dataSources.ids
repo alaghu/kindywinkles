@@ -9,4 +9,9 @@
       <index name="unique_schema_migrations" unique="true" columns="version"/>
     </table>
   </data-source>
+  <data-source source="LOCAL" name="Rails kindywinkles.com: test" uuid="9ae4416a-a4d5-4ef6-9263-c1fc76f51452">
+    <database-info product="SQLite" version="3.7.2" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native"/>
+    <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed"/>
+    <schema name="" catalog=""/>
+  </data-source>
 </component>

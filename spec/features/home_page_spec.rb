@@ -8,7 +8,14 @@ describe 'Home Page' do
   end
 
   it "should have text 'Music'" do
+    visit "/"
     page.should have_content "Music"
   end
+
+  it "should have text 'Care'" do
+    visit "/"
+    page.should have_content "Care"
+  end
+
 
 end
