@@ -7,8 +7,19 @@ gem 'rails', '4.0.0'
 ruby '2.0.0'
 
 
-# Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+# Use sqlite3 as the database for Active Record in test and dev
+# use postgres in heroku (production)
+group :production do
+  gem 'pg'
+end
+
+group :development, :test do
+  gem 'sqlite3'
+end
+
+# This gem is needed for heroku deployment
+gem 'rails_12factor', group: :production
+
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
