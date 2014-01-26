@@ -29,6 +29,13 @@
   width: 100%;
   min-height: 10%;
 
-  background: #5cb85c;
+  background: #4900c2;
 
 }
+
+.brush-stroked-font {
+  font-family: $font-family-monospace;
+  font-size: 100px;
+  font-style: italic;
+}
+
