@@ -7,38 +7,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
    width="400"
    height="400"
-   id="svg5519"
-   version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="Kindy Winkles Logo 13 - Neem 400x400.svg"
-   inkscape:export-filename="/Users/ani/Documents/work/DayCare/Website/kindywinkles/Design and Stationary/Kindy Winkles Logo 12 - Melon 400x400.png"
-   inkscape:export-xdpi="93.559998"
-   inkscape:export-ydpi="93.559998">
+   id="svg5519">
   <defs
      id="defs3" />
-  <sodipodi:namedview
-     inkscape:document-units="mm"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.59"
-     inkscape:cx="169.1881"
-     inkscape:cy="185.17461"
-     inkscape:current-layer="g5570"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="2563"
-     inkscape:window-height="1378"
-     inkscape:window-x="3"
-     inkscape:window-y="16"
-     inkscape:window-maximized="0" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -52,105 +26,90 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
      transform="translate(0,-652.36203)"
+     id="layer1"
      style="display:inline">
     <g
-       id="g5582"
-       transform="translate(-8.5714203,0)">
+       transform="translate(-8.5714203,0)"
+       id="g5582">
       <g
          id="g5570">
         <text
-           xml:space="preserve"
-           style="font-size:52.61524582px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5822c8;fill-opacity:1;stroke:none;display:inline;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"
            x="6.9911242"
            y="819.51782"
+           transform="scale(0.98235639,1.0179605)"
            id="text3786"
-           sodipodi:linespacing="125%"
-           transform="scale(0.98235639,1.0179605)"><tspan
-             sodipodi:role="line"
-             id="tspan3788"
+           xml:space="preserve"
+           style="font-size:52.61524582px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5822c8;fill-opacity:1;stroke:none;display:inline;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"><tspan
              x="6.9911242"
              y="819.51782"
+             id="tspan3788"
              style="font-size:94.70742035px;fill:#5822c8;fill-opacity:1"><tspan
-               style="font-size:189.4148407px;fill:#5822c8;fill-opacity:1"
-               id="tspan3790">K</tspan><tspan
-               style="font-size:110.49198914px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5822c8;fill-opacity:1;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"
-               id="tspan3792" /></tspan></text>
+               id="tspan3790"
+               style="font-size:189.4148407px;fill:#5822c8;fill-opacity:1">K</tspan><tspan
+               id="tspan3792"
+               style="font-size:110.49198914px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5822c8;fill-opacity:1;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal" /></tspan></text>
         <text
-           sodipodi:linespacing="125%"
-           id="text3774"
-           y="750.98248"
            x="322.07797"
-           style="font-size:27.28619957px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"
-           xml:space="preserve"><tspan
-             y="750.98248"
+           y="750.98248"
+           id="text3774"
+           xml:space="preserve"
+           style="font-size:27.28619957px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"><tspan
              x="322.07797"
-             id="tspan3776"
-             sodipodi:role="line"> </tspan></text>
+             y="750.98248"
+             id="tspan3776"> </tspan></text>
         <text
-           transform="scale(0.98235639,1.0179605)"
-           sodipodi:linespacing="125%"
-           id="text3838"
-           y="819.29083"
            x="113.09995"
-           style="font-size:52.61524582px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7c52d3;fill-opacity:1;stroke:none;display:inline;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"
-           xml:space="preserve"><tspan
-             style="font-size:94.70742035px;fill:#7c52d3;fill-opacity:1"
-             y="819.29083"
+           y="819.29083"
+           transform="scale(0.98235639,1.0179605)"
+           id="text3838"
+           xml:space="preserve"
+           style="font-size:52.61524582px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7c52d3;fill-opacity:1;stroke:none;display:inline;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"><tspan
              x="113.09995"
+             y="819.29083"
              id="tspan3840"
-             sodipodi:role="line"><tspan
+             style="font-size:94.70742035px;fill:#7c52d3;fill-opacity:1"><tspan
                id="tspan3842"
                style="font-size:110.49198914px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#7c52d3;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"><tspan
-                 style="fill:#5822c8;fill-opacity:1"
-                 id="tspan3863">ndy </tspan></tspan></tspan></text>
+                 id="tspan3863"
+                 style="fill:#5822c8;fill-opacity:1">ndy </tspan></tspan></tspan></text>
         <g
-           id="g3857"
-           transform="translate(-57.420925,-6.1022655)">
+           transform="translate(-57.420925,-6.1022655)"
+           id="g3857">
           <g
              id="g3877">
             <rect
-               style="fill:#5822c8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="rect3847"
                width="12.652069"
                height="22.871048"
+               rx="0"
+               ry="0"
                x="142.09245"
                y="164.9635"
                transform="translate(8.5714203,652.36203)"
-               rx="0"
-               ry="0" />
+               id="rect3847"
+               style="fill:#5822c8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
             <path
+               d="m 417.84713,227.17628 a 27.800312,29.48518 0 1 1 -55.60063,0 27.800312,29.48518 0 1 1 55.60063,0 z"
                transform="matrix(0.88608264,0,0,0.83544934,-187.84664,603.43866)"
-               d="m 417.84713,227.17628 c 0,16.28422 -12.44663,29.48518 -27.80032,29.48518 -15.35368,0 -27.80031,-13.20096 -27.80031,-29.48518 0,-16.28421 12.44663,-29.48518 27.80031,-29.48518 15.35369,0 27.80032,13.20097 27.80032,29.48518 z"
-               sodipodi:ry="29.48518"
-               sodipodi:rx="27.800312"
-               sodipodi:cy="227.17628"
-               sodipodi:cx="390.04681"
                id="path3784"
-               style="fill:#437020;fill-opacity:1;stroke:#ffffff;stroke-width:2.71391988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-               sodipodi:type="arc" />
+               style="fill:#437020;fill-opacity:1;stroke:#ffffff;stroke-width:2.71391988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
           </g>
         </g>
       </g>
       <g
-         id="g3794"
-         transform="matrix(0.37897499,0,0,0.37897499,13.427651,553.98437)">
+         transform="matrix(0.37897499,0,0,0.37897499,13.427651,553.98437)"
+         id="g3794">
         <text
-           transform="scale(0.98235639,1.0179605)"
-           sodipodi:linespacing="125%"
-           id="text3796"
-           y="1033.6232"
            x="-17.330685"
-           style="font-size:137.22621155px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"
-           xml:space="preserve"><tspan
-             style="font-size:247.00718689px;fill:#5822c8;fill-opacity:1"
-             y="1033.6232"
+           y="1033.6232"
+           transform="scale(0.98235639,1.0179605)"
+           id="text3796"
+           xml:space="preserve"
+           style="font-size:137.22621155px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"><tspan
              x="-17.330685"
+             y="1033.6232"
              id="tspan3798"
-             sodipodi:role="line"><tspan
+             style="font-size:247.00718689px;fill:#5822c8;fill-opacity:1"><tspan
                id="tspan3800"
                style="font-size:494.01437378px">W</tspan><tspan
                id="tspan3802"
@@ -159,51 +118,42 @@
            transform="translate(312.83728,2.1804819)"
            id="g3804">
           <text
-             transform="scale(0.98235639,1.0179605)"
-             sodipodi:linespacing="125%"
-             id="text3806"
-             y="1031.4158"
              x="-18.97838"
-             style="font-size:137.22621155px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"
-             xml:space="preserve"><tspan
-               style="font-size:247.00718689px;fill:#5822c8;fill-opacity:1"
-               y="1031.4158"
+             y="1031.4158"
+             transform="scale(0.98235639,1.0179605)"
+             id="text3806"
+             xml:space="preserve"
+             style="font-size:137.22621155px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"><tspan
                x="-18.97838"
+               y="1031.4158"
                id="tspan3808"
-               sodipodi:role="line"><tspan
+               style="font-size:247.00718689px;fill:#5822c8;fill-opacity:1"><tspan
                  id="tspan3810"
                  style="font-size:288.17495728px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:P22 Bayer Universal;-inkscape-font-specification:P22 Bayer Universal"> nkles</tspan></tspan></text>
         </g>
       </g>
       <g
-         style="display:inline"
+         transform="translate(-10.583318,112.35927)"
          id="g3881"
-         transform="translate(-10.583318,112.35927)">
+         style="display:inline">
         <rect
-           ry="0"
-           rx="0"
-           transform="translate(8.5714203,652.36203)"
-           y="164.9635"
-           x="142.09245"
-           height="22.871048"
            width="12.652069"
+           height="22.871048"
+           rx="0"
+           ry="0"
+           x="142.09245"
+           y="164.9635"
+           transform="translate(8.5714203,652.36203)"
            id="rect3883"
            style="fill:#5822c8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
         <path
-           sodipodi:type="arc"
-           style="fill:#437020;fill-opacity:1;stroke:#ffffff;stroke-width:2.71391988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-           id="path3885"
-           sodipodi:cx="390.04681"
-           sodipodi:cy="227.17628"
-           sodipodi:rx="27.800312"
-           sodipodi:ry="29.48518"
            d="m 417.84713,227.17628 a 27.800312,29.48518 0 1 1 -55.60063,0 27.800312,29.48518 0 1 1 55.60063,0 z"
-           transform="matrix(0.88608264,0,0,0.83544934,-187.84664,603.43866)" />
+           transform="matrix(0.88608264,0,0,0.83544934,-187.84664,603.43866)"
+           id="path3885"
+           style="fill:#437020;fill-opacity:1;stroke:#ffffff;stroke-width:2.71391988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       </g>
     </g>
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer2" />
+     id="layer2" />
 </svg>
