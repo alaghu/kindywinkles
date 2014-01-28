@@ -10,7 +10,7 @@ ruby '2.0.0'
 # Use sqlite3 as the database for Active Record in test and dev
 # use postgres in heroku (production)
 group :production do
-  gem 'pg'
+  gem 'pg', '0.15.1'
 end
 
 group :development, :test do
@@ -67,7 +67,7 @@ gem 'bourbon'
 # followed http://blog.55minutes.com/2013/10/test-javascript-with-capybara-webkit/
 
 group :test do
-  gem 'rspec-rails' , "~> 2.0" , :group => :development
+  gem 'rspec-rails', "~> 2.0", :group => :development
 end
 
 group :test do
@@ -77,7 +77,6 @@ group :test do
 end
 
 # To run rspec test when files are changed http://www.youtube.com/watch?v=QHRZ5YhuEIY
-group :development , :test do
-  gem 'rb-fsevent'
+group :development, :test do
   gem 'guard-rspec'
 end

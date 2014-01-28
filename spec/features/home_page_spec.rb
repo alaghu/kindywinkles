@@ -17,5 +17,9 @@ describe 'Home Page' do
     page.should have_content "Care"
   end
 
+  it "should have the title 'Kindy Winkles. Art * Music * Care'" do
+    visit "/"
+    page.should have_title "Kindy Winkles. Art • Music • Care"
+  end
 
 end
