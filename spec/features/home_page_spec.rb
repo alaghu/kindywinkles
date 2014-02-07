@@ -36,6 +36,7 @@ describe 'Home Page' do
   it "should have phone 650 888 4845" do
     visit "/"
     page.should have_text "650-888-4845"
+
   end
 
 
