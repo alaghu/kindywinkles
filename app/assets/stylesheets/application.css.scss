@@ -19,7 +19,22 @@
 
 .container-kw {
   max-width: 768px;
+  margin: 0 auto;
 
+  text-align: center;
+
+  img {
+
+    height: 100%;
+    width: 100%;
+  }
+
+}
+
+.brush-stroked-font {
+  font-family: $font-family-monospace;
+  font-size: 100px;
+  font-style: italic;
 }
 
 .horizontal-bar {
@@ -32,7 +47,7 @@
   background: #4900c2;
 
   address {
-   color: #ffffff;
+    color: #ffffff;
     font-family: $font-family-sans-serif;
     font-size: 18px;
 
@@ -42,21 +57,10 @@
     text-decoration: none;
   }
 
-  span  {
+  span {
     text-decoration: none;
     color: darkseagreen;
 
   }
-  span:visited {
-    color: darkseagreen;
-
-  }
 
 }
-
-.brush-stroked-font {
-  font-family: $font-family-monospace;
-  font-size: 100px;
-  font-style: italic;
-}
-
