@@ -16,7 +16,6 @@
 @import "home";
 
 // Layout
-
 .container-kw {
   max-width: 768px;
   margin: 0 auto;
@@ -30,11 +29,7 @@
 
 }
 
-.brush-stroked-font {
-  font-family: $font-family-monospace;
-  font-size: 100px;
-  font-style: italic;
-}
+
 
 .horizontal-bar {
   position: fixed;
@@ -64,4 +59,16 @@
 
   }
 
+}
+
+.caption-menu {
+
+  min-width: 1024px;
+
+  text-align: center;
+  min-height: 400px;
+  padding: 10px;
+  font-family: $font-family-script;
+  font-size: 120px;
+  font-style: italic;
 }
