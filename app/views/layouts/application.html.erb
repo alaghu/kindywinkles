@@ -10,9 +10,9 @@
 
 <%= favicon_link_tag 'favicon.ico' %>
 
-    <% icon_sizes = ['60x60', '76x76', '120x120', '120x120', '152x152'] %>
+<% icon_sizes = ['60x60', '76x76', '120x120', '120x120', '152x152'] %>
 
-    <% icon_sizes.each do |icon_size| %>
+<% icon_sizes.each do |icon_size| %>
         <%= favicon_link_tag "apple-touch-icon#{icon_size}.png",
                              rel: 'apple-touch-icon',
                              sizes: icon_size %>
