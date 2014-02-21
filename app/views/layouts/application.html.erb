@@ -10,18 +10,14 @@
 
 <%= favicon_link_tag 'favicon.ico' %>
 
-<%= favicon_link_tag 'apple-touch-icon60x60.png', rel: 'apple-touch-icon',
-                     sizes: '60x60' %>
+    <% icon_sizes = ['60x60', '76x76', '120x120', '120x120', '152x152'] %>
 
-<%= favicon_link_tag 'apple-touch-icon76x76.png', rel: 'apple-touch-icon',
-                     sizes: '76x76' %>
+    <% icon_sizes.each do |icon_size| %>
+        <%= favicon_link_tag "apple-touch-icon#{icon_size}.png",
+                             rel: 'apple-touch-icon',
+                             sizes: icon_size %>
 
-<%= favicon_link_tag 'apple-touch-icon120x120.png', rel: 'apple-touch-icon',
-                     sizes: '120x120' %>
-
-<%= favicon_link_tag 'apple-touch-icon120x120.png', rel: 'apple-touch-icon',
-                     sizes: '152x152' %>
-
+    <% end %>
 
 <body>
 
