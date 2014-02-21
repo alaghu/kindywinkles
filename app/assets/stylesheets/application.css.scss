@@ -35,10 +35,8 @@
   padding-top: 100px;
   margin: auto;
 
-
-//  text-align: center;
   font-family: $font-family-script;
-  font-size: 100px;
+  font-size: 110px;
   font-style: italic;
 
   div {
@@ -46,6 +44,19 @@
     width: 33%;
     text-align: center;
   }
+
+  .art {
+    color: seagreen;
+  }
+
+  .music {
+    color: firebrick;
+  }
+
+  .care {
+    color: steelblue;
+  }
+
 
 
 }
