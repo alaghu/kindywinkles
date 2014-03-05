@@ -2,3 +2,10 @@
 @import "bourbon";
 // style
 @import "app-font";
+
+// font variables
+// -------------------------
+$font-family-sans-serif  : "open-sans-normal", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family-serif       : Georgia, "Times New Roman", Times, serif !default;
+$font-family-monospace   : Monaco, Menlo, Consolas, "Courier New", monospace !default;
+$font-family-script      : "clouds-and-blue-normal" !default;
