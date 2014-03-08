@@ -80,3 +80,7 @@ end
 group :development, :test do
   gem 'guard-rspec'
 end
+
+# greensock animation engine
+gem 'greensock-rails'
+
