@@ -13,6 +13,13 @@
 //= require opal
 //= require opal_ujs
 //= require turbolinks
+//= require 'greensock/TweenLite'
+//= require 'greensock/easing/EasePack'
 //= require_tree .
 
 
+
+//
+//var horizontalBar= document.getElementById("horizontal-bar");
+//console.log(horizontalBar);
+//TweenLite.to("#horizontal-bar", 2, {width:100});
