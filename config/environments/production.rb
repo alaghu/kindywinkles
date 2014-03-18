@@ -1,6 +1,9 @@
 KindywinklesCom::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
+  # Google Analytics code used by 'google-analytics-rails' gem
+  GA.tracker = "UA-48937193-1"
+
   # Code is not reloaded between requests.
   config.cache_classes = true
 

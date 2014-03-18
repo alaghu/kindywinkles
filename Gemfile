@@ -85,3 +85,6 @@ end
 # greensock animation engine
 gem 'greensock-rails'
 
+# for Google analytics
+gem 'google-analytics-rails'
+

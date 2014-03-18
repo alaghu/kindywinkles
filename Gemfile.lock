@@ -59,6 +59,7 @@ GEM
     execjs (2.0.2)
     ffi (1.9.3)
     formatador (0.2.4)
+    google-analytics-rails (0.0.5)
     greensock-rails (1.11.5.0)
     guard (2.5.1)
       formatador (>= 0.2.4)
@@ -212,6 +213,7 @@ DEPENDENCIES
   capybara-webkit
   coffee-rails (~> 4.0.0)
   database_cleaner
+  google-analytics-rails
   greensock-rails
   guard-rspec
   jbuilder (~> 1.2)
