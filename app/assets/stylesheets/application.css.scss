@@ -70,14 +70,14 @@
     font-family : $font-family-sans-serif;
 
     address {
-      border-width     : 1px 0 0 0;
+      border-width     : 0 0 0 0;
       border-style     : solid;
       border-top-color : $kindy-violet;
       font-size        : 22px;
       }
     address:hover {
-      color      : $kindy-violet;
-      background : $white;
+      color      : $white;
+      background : $art-green;
       }
 
     #email-id {
@@ -86,6 +86,10 @@
       color           : $white;
       font-size       : 21px;
       }
+    #email-id:hover {
+      color            : $white;
+      background-color : $music-red;
+      }
 
     #phone {
       float           : left;
@@ -93,6 +97,10 @@
       text-decoration : none;
       color           : $white;
       font-size       : 20px;
+      }
+    #phone:hover {
+      color            : white;
+      background-color : $care-blue;
       }
     }
 
@@ -103,9 +111,9 @@
     bottom           : inherit;
     width            : 200px;
     min-height       : inherit;
-    background-color : $white;
     text-align       : center;
     vertical-align   : middle;
+    background-color : $white;
     }
 
   }
